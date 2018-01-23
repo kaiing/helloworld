@@ -7,9 +7,12 @@ int main() {
 	a = 3, b = 4;
 	cout << "a + b = " << a + b << endl;
 	cout << "sfidfhdhfhdfh" << endl;
+
 	cout << "a + b = " << a + b << endl;
 	cout << "sfidfhdhfhdfh" << endl;
 	cout << "a + b = " << a + b << endl;
 	cout << "sfidfhdhfhdfh" << endl;
+
+
 	return 0;
 }
